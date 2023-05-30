@@ -1,0 +1,1 @@
+cmd_/home/vijay/Videos/rotary_MAR30/rot_switch.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/vijay/Videos/rotary_MAR30/rot_switch.ko /home/vijay/Videos/rotary_MAR30/rot_switch.o /home/vijay/Videos/rotary_MAR30/rot_switch.mod.o ;  true
